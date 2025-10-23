@@ -22,3 +22,5 @@
 https://docs.google.com/document/d/1HAXNgorilpShSUdmHCU6JyQquFGQdNqX59XKagOIUbY/edit?usp=sharing
 * Use the code here. Save the files as the classes outlined
 
+* #### COMMIT CHANGES EVERYDAY EVEN IF IT IS A FULLSTOP !!!!
+
