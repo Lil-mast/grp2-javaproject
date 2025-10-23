@@ -18,5 +18,7 @@
 * Message me before committing changes
 * If there is an Issue raise it up in the Github  issue tab.
 * Create A PR(Pull Requests) and commit changes.
-
+#### GOOGLE DOCS LINK TO THE QUESTIONS AND ANSWERS
+https://docs.google.com/document/d/1HAXNgorilpShSUdmHCU6JyQquFGQdNqX59XKagOIUbY/edit?usp=sharing
+* Use the code here. Save the files as the classes outlined
 
