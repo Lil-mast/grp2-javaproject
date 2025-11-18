@@ -4,7 +4,7 @@ Differentiate  between iteration and traversal as used in arrays. Using for loop
 
 Iteration- repeating a process or a block of code multiple times often used in groups.
 E.G Used to perform actions repeatedly, sum, search, modify.
-while
+while.
 Transversal -  visiting each element of an array one by one usually from start to end. It is used to access or inspect every element.
  */
 
